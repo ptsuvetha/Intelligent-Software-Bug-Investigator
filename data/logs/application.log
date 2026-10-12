@@ -1,0 +1,9 @@
+2026-09-20 14:31:20 INFO GET /users/101/profile
+2026-09-20 14:31:20 INFO Fetching profile for user 101
+2026-09-20 14:31:20 ERROR Profile not found for user 101
+2026-09-20 14:31:20 ERROR AttributeError: 'NoneType' object has no attribute 'name'
+2026-09-20 14:31:20 ERROR GET /users/101/profile returned 500
+
+2026-09-20 15:42:10 INFO GET /users/102/profile
+2026-09-20 15:42:10 INFO Profile retrieved successfully
+2026-09-20 15:42:10 INFO GET /users/102/profile returned 200
